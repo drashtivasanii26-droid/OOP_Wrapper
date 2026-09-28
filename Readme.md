@@ -1,4 +1,4 @@
-# 🏢 Python OOP Wrapper
+# 🏢 Python OOP Wrapper Project
 
 ---
 
@@ -415,12 +415,7 @@ Goodbye!
 
 ---
 
-
----
-
-                                              
-
-                                       **⭐ Thank you for visiting this project! ⭐**
+                                             **⭐ Thank you for visiting this project! ⭐**
 
 ---
 
